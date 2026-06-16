@@ -1,0 +1,5 @@
+C:/CursWorkTV/task_08/build/CMakeFiles/task_08.dir
+C:/CursWorkTV/task_08/build/CMakeFiles/edit_cache.dir
+C:/CursWorkTV/task_08/build/CMakeFiles/rebuild_cache.dir
+C:/CursWorkTV/task_08/build/CMakeFiles/task_08_autogen_timestamp_deps.dir
+C:/CursWorkTV/task_08/build/CMakeFiles/task_08_autogen.dir
